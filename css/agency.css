@@ -37,6 +37,11 @@ h6 {
   /*font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';*/
 }
 
+blockquote {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+}
+
 .page-section {
   padding: 100px 0;
 }
